@@ -1,0 +1,14 @@
+../Src/main.c:62:6:SystemInit	4	static
+../Src/main.c:66:6:SysTick_Handler	4	static
+../Src/main.c:71:6:USART2_IRQHandler	16	static
+../Src/main.c:88:10:get_tick	4	static
+../Src/main.c:93:5:str_to_int	24	static
+../Src/main.c:103:6:pll_init	4	static
+../Src/main.c:128:6:systick_init	4	static
+../Src/main.c:135:6:usart2_init	4	static
+../Src/main.c:159:6:tim3_pwm_init	4	static
+../Src/main.c:205:6:servo_set_angle	24	static
+../Src/main.c:212:6:usart2_transmit	16	static
+../Src/main.c:218:6:usart2_send_string	16	static
+../Src/main.c:225:6:usart2_send_number	32	static
+../Src/main.c:234:5:main	32	static
