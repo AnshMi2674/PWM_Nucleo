@@ -29,6 +29,14 @@ Red    → 5V  (Nucleo or external supply)
 Orange → PA6 (PWM signal, 3.3V logic — SG90 compatible)
 ```
 
+### Arduino Uno Wiring (Debugging)
+
+```
+PA6(Nucleo)  → Pin 8 (UNO)
+GND (Nucleo)    → GND  (UNO)
+Imp :: Manitain Common Ground
+```
+
 ---
 
 ## Features
